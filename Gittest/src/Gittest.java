@@ -5,6 +5,7 @@ public class Gittest {
 		
 		System.out.println("Hej");
 		System.out.println("Nazi Polizei");
+		System.out.println("Heil Harald!");
 		
 	}
 	
